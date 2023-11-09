@@ -1,0 +1,5 @@
+ID,Name,Type
+1,Nguyễn Văn A,teacher
+2,Trần Thị B,student
+3,Lê Minh C,teacher
+4,Nguyễn Thị D,student
